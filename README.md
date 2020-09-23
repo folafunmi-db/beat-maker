@@ -1,1 +1,1 @@
-# beat-maker
+# Beat-maker App in pure JS
