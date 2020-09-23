@@ -15,3 +15,53 @@ body {
     align-items: center;
     justify-content: space-between;
 }
+
+header h1 {
+    margin: 2em 0 1rem 0;
+    text-align: center;
+    font-size: 3rem;
+}
+header p {
+    font-size: 1rem;
+    text-align: center;
+}
+
+.visual {
+    margin-top: -10em;
+}
+
+.pads {
+    background: lightblue;
+    width: 100%;
+    display: flex;
+}
+
+.pads > div {
+    height: 100px;
+    width: 100px;
+    flex: 1;
+}
+
+.pad1 {
+    background: #60d394;
+}
+
+.pad1 {
+    background: #b0d360;
+}
+
+.pad2 {
+    background: #6084d3;
+}
+
+.pad3 {
+    background: #ae60d3;
+}
+
+.pad4 {
+    background: #d37b60;
+}
+
+.pad5 {
+    background: #e44949;
+}
